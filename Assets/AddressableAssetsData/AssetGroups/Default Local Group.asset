@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: f5884cc9bd9581f4ba1afc93d79fa8dd
+  m_SerializeEntries:
+  - m_GUID: 74e568bd943d7f94cbebd7b84f8f031c
+    m_Address: Assets/02_sprites/web_show_cards1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1b54efa614bda84991185b0b05d5cc9
+    m_Address: Assets/02_sprites/monster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8e51d283545a0744082ae784dbc5740c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ead6ba1b1bce93948920fb842fdacb9e, type: 2}
+    - {fileID: 11400000, guid: 5870039b34bcdc84e96a7afb724957fe, type: 2}
